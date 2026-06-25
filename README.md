@@ -10,25 +10,11 @@ But please **give proper credit if you do**. thanks, and happy building
 **EDUCATIONAL PURPOSE ONLY**
 This project generates a constant carrier signal using the nRF24L01 RF module, with
 automatic channel hopping across the entire 2.4GHz spectrum (channels 0-125).
-It's designed for:
-- RF testing and analysis
-- Spectrum monitoring
-- RF interference testing
-- Educational demonstrations of RF principles
-- Wireless signal generation
 
 ⚠️ **DISCLAIMER**
 **_This code is provided for educational and research purposes. Users are responsible
 for complying with local laws, regulations, and radio-frequency requirements when
 using wireless communication equipment._**
-
-**🎯 Features**
-- ✅ Constant carrier generation with nRF24L01+
-- ✅ Automatic channel hopping (0-125 range)
-- ✅ Real-time status monitoring via Serial
-- ✅ PLL lock detection
-- ✅ Full 2Mbps, maximum power output
-- ✅ Lightweight and efficient
 
 **🔌 Hardware Requirements**
 - BW16 (RTL8720DN) development board
