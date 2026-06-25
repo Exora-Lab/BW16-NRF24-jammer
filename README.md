@@ -1,4 +1,11 @@
 **WARNING!!! JAMMING IS ILLEGAL------WARNING!!! JAMMING IS ILLEGAL**
+_**EXORA_LAB**_
+
+Here's my BW16 + NRF24 code, now open source. I spent months developing and testing it beacause there were
+barely any useful resources online for this combination. fell free to use it, modify it, learn from it and improve it.
+But please **give proper credit if you do**. thanks, and happy building
+
+**EDUCATIONAL PURPOSE ONLY**
 This project generates a constant carrier signal using the nRF24L01 RF module, with
 automatic channel hopping across the entire 2.4GHz spectrum (channels 0-125).
 It's designed for:
